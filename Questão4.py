@@ -29,4 +29,4 @@ print("{}Kg De {}".format(quantidade, tipo))
 print("Valor total a Pagar R${:.2f}".format(total1))
 print("Forma de Pagamento: {} ".format(FormaP))
 print("Valor do Desconto: R${:.2f}".format(desconto))
-print("Valor Total a Pagar caso haja Desconto: R${:.2f}".format(total2))Detalhes
+print ( "Valor total a caso Desconto: R $ {:. 2f}" . format ( total2 ))
