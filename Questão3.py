@@ -4,7 +4,7 @@ perg = ["Telefonou para a vítima?","Esteve no local do crime?"
 respostas = 0 
 si = 0
 for c in perg:
-  respostas = str(input(f"{c} [Sim/Não]: "))
+  respostas = str(input(f"{c} [Sim/Não]: ")).lower()
   if (respostas in "sim"):
     si += 1
 if (si == 2):
