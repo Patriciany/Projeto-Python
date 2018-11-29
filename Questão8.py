@@ -28,3 +28,4 @@ for n in list:
 		Menor7.append(n)
 print("Os valores maiores que a Média foi: {}".format(MaiorM))
 print("Os valores Menores que 7 foi: {}".format(Menor7))
+print("Obrigado! Volte Sempre!")
